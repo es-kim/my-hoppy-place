@@ -1,2 +1,2 @@
 # my-hoppy-place
-React app to manage beers
+React app to manage muh beers
